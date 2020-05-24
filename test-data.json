@@ -1,0 +1,36 @@
+[
+    {
+        "players": ["Roger", "Tim"],
+        "games": [
+            [
+                {
+                    "score": "0-0",
+                    "player1Wins": true,
+                    "result": "15-0"
+                },
+                {
+                    "score": "15-0",
+                    "player1Wins": false,
+                    "result": "15-15"
+                },
+                {
+                    "score": "15-15",
+                    "player1Wins": true,
+                    "result": "30-15"
+                },
+                {
+                    "score": "30-15",
+                    "player1Wins": true,
+                    "result": "40-15"
+                },
+                {
+                    "score": "40-15",
+                    "player1Wins": true,
+                    "result": "game"
+                }
+            ]
+        ],
+        "sets": [],
+        "matches": []
+    }
+]
