@@ -1,0 +1,14 @@
+{
+  "name": "tennis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tennis.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
